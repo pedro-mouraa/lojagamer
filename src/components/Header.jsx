@@ -2,9 +2,9 @@
 const Header = () => {
   return (
     <>
-      
+
     </>
   )
 }
 
-export default Hea
+export default Header
